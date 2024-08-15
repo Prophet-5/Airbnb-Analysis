@@ -32,9 +32,9 @@ The data sets Ive gathered range from 1991 to 2023 with 1991-2022 being the long
 ## Obstacles
 I used several different data sets from Zillow, Redfin, Rocket mortgage, Airbitics and Airbnb stat sites. Alot of the data was unavailable in a csv form so I had to scrape the data. The csv files I did get often had a column for each year so I brought them into excel to clean and organize the row structures. Alot of the cleaning was done in excel and Python. Alot of more widespread and deeper analysis data was blocked by a paywall.
 ## Terminology
-LTR = Long-term rental
-STR = Short-term rental
-NOI = Net operating income (based on 50% reduction of gross from operating costs)
+1. LTR = Long-term rental
+2. STR = Short-term rental
+3. NOI = Net operating income (based on 50% reduction of gross from operating costs)
 ## Tools Used
 - Power Point – for the slideshow presentation
 - Power Bi – for creating dashboards
