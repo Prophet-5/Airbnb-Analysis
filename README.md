@@ -12,7 +12,7 @@ link:https://app.powerbi.com/view?r=eyJrIjoiNGI4YjU3OTUtNmM3ZS00ODkxLTg4OWEtNThm
 - [Data Sources](#data-sources)
 - [Conclusion](#conclusion)
 ## Motivation:
-Passive income is something that can really help someone have more retirement income. A rental propert is a good way to make passive income and a long-term investment as well. I've been looking into buying a investment property but had no idea how to choose the right areas that are optimal investment potentials. I decided to dig in and collect Airbnb data and other data points that effect housing costs. I then narrowed down the top states that fit into 7 KPI categories:
+Passive income is something that can really help someone have more retirement income. A rental propert is a good way to make passive income and a long-term investment as well. I've been looking into buying a investment property but had no idea how to choose the right areas that are optimal investment potentials. I decided to dig in and collect Airbnb data and other data points that effect housing costs. I then narrowed down the top states that fit into 6 KPI categories:
 - Occupancy rate percentages
 - Average property tax yearly fees and percentages
 - Median home price for that state
@@ -41,14 +41,17 @@ NOI = Net operating income (based on 50% reduction of gross from operating costs
 - Python/Pandas – for data exploration, cleaning, and data aggregation
 - Git – for public display and data housing
 ## Data Sources
-Housing Data - Zillow Research
-Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents
-15 Best U.S. Cities for Investing in Airbnb | Extra Space Storage
-Airbnb vs. Long-Term Rentals: Which Makes the Most Profit? An Analysis of the 50 Largest U.S. Markets - Real Estate ##### Data & Research (renthop.com)
-Airbnb Data: Occupancy Rates by Zipcode | Airbtics | Airbnb Analytics
-Mapped: The Growth in U.S. House Prices by State (visualcapitalist.com)
-Tourist attractions in the United States – Wikipedia
-Airbnb Statistics by City in the US 2024 | Hospitable
-Property Taxes By State: Highest To Lowest | Rocket Mortgage
+- https://www.rocketmortgage.com/learn/property-taxes-by-state
+- https://hospitable.com/airbnb-statistics-by-city/
+- https://en.wikipedia.org/wiki/Tourist_attractions_in_the_United_States
+- https://advisor.visualcapitalist.com/growth-in-u-s-house-prices-by-state/
+- https://airbtics.com/airbnb-data-by-zipcode/
+- https://www.renthop.com/research/airbnb-vs-long-term-rental-profits/
+- https://www.extraspace.com/blog/moving/best-cities-in-america-for-investing-in-airbnb/
+- https://www.redfin.com/?msockid=3c36ac306514677c0709b8fc64b966cf
+- https://www.zillow.com/research/data/?msockid=3c36ac306514677c0709b8fc64b966cf
+
+
+
 ## Conclusion
 The analysis covers key points of interest associated with short term rental statistics and Airbnb affiliation statistics. I compiled  data samples of "top 15" or "top 10" states from each of the metrics: highest occupancy rates and NOI, lowest property tax, lowest median home prices, highest property value trends and annual STR revenue. After compiling those "top" metrics I counted all the states and how many times they occuureed in those metric lists. For example, TN showed up 6 times in the different KPI metrics such as highest occupancy and lowest property tax. After adding up all the counts each state occurred in the data samples, I made a graph showing the highest and lowest scores. ** Please note that the more attractions a state has, the higher the overall score for that state will be.
