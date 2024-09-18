@@ -12,7 +12,7 @@ link:https://app.powerbi.com/view?r=eyJrIjoiNGI4YjU3OTUtNmM3ZS00ODkxLTg4OWEtNThm
 - [Data Sources](#data-sources)
 - [Conclusion](#conclusion)
 ## Motivation:
-Passive income is something that can really help someone have more retirement income. A rental propert is a good way to make passive income and a long-term investment as well. I've been looking into buying a investment property but had no idea how to choose the right areas that are optimal investment potentials. I decided to dig in and collect Airbnb data and other data points that effect housing costs. I then narrowed down the top states that fit into 6 KPI categories:
+Passive income is something that can really help someone have more retirement income. A rental property is a good way to make passive income and a long-term investment as well. I've been looking into buying a investment property but had no idea how to choose the right areas that are optimal investment potentials. I decided to dig in and collect Airbnb data and other data points that effect housing costs. I then narrowed down the top states that fit into 6 KPI categories:
 - Occupancy rate percentages
 - Average property tax yearly fees and percentages
 - Median home price for that state
